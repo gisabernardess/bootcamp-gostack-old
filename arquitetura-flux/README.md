@@ -7,6 +7,8 @@
     <p align="center">
       <img alt="react-rocketshoes" src="https://github.com/gisabernardess/bootcamp-gostack-old/blob/main/.github/rocketshoes.png" style="max-width:100%;">
     </p>
+    <h2>:speech_balloon: About</h2>
+    <p>Redux + Redux Saga + Reactotron</p>
     <h2>:rocket: Technologies </h2>
     <ul>
       <li><a href="https://reactjs.org/" rel="nofollow">React.js</a></li>
