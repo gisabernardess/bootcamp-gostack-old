@@ -4,6 +4,8 @@
       <img alt="GoStack" src="https://github.com/gisabernardess/bootcamp-gostack-old/blob/main/.github/logo-gostack.png" width="300px" style="max-width:100%;">
     </p>
     <p align="center">Using React Hooks</p>
+    <h2>:speech_balloon: Project</h2>
+    <p>Examples of how to use react hooks.</p>
     <h2>:rocket: Technologies </h2>
     <ul>
       <li><a href="https://reactjs.org/" rel="nofollow">React.js</a></li>

@@ -4,8 +4,8 @@
       <img alt="GoStack" src="https://github.com/gisabernardess/bootcamp-gostack-old/blob/main/.github/logo-gostack.png" width="300px" style="max-width:100%;">
     </p>
     <p align="center">React.js Introduction</p>
-    <h2>:speech_balloon: About</h2>
-    <p>CSS & Image imports, Class Components, State & Immutability, React Properties, Default Props & PropTypes</p>
+    <h2>:speech_balloon: Project</h2>
+    <p>CSS & Image imports, Class Components, State & Immutability, React Properties, Default Props & PropTypes.</p>
     <h2>:rocket: Technologies </h2>
     <ul>
       <li><a href="https://reactjs.org/" rel="nofollow">React.js</a></li>

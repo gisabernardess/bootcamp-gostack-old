@@ -10,7 +10,7 @@
       <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gisabernardess/bootcamp-gostack-old">
       <img alt="GitHub" src="https://img.shields.io/github/license/gisabernardess/bootcamp-gostack-old">
     </p>
-    <h2>:speech_balloon: About</h2>
+    <h2>:speech_balloon: Project</h2>
     <p>Repository dedicated to the challenges and development practices of the <a href="https://rocketseat.com.br/bootcamp" rel="nofollow">Rocketseat GoStack Bootcamp</a> - old journey.</p>
     <h2>:rocket: Technologies </h2>
     <ul>
@@ -33,7 +33,7 @@
 $ git clone https://github.com/gisabernardess/bootcamp-gostack-old <br/>
 <span class="pl-c"><span class="pl-c">#</span> Go into each repository and install dependencies</span> 
 $ yarn <br/>
-<span class="pl-c"><span class="pl-c">#</span> Run the development server</span>
+<span class="pl-c"><span class="pl-c">#</span> Go into each repository and run the development server</span>
 $ yarn start <br/>
 <span class="pl-c"><span class="pl-c">#</span> Navigate to http://localhost:3000</span>
 <span class="pl-c"><span class="pl-c">#</span> The app will automatically reload if you change any of the source files.</span></pre>

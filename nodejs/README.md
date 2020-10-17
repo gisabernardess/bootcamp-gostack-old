@@ -4,8 +4,8 @@
       <img alt="GoStack" src="https://github.com/gisabernardess/bootcamp-gostack-old/blob/main/.github/logo-gostack.png" width="300px" style="max-width:100%;">
     </p>
     <p align="center">NodeJS Introduction</p>
-    <h2>:speech_balloon: About</h2>
-    <p>HTTP Methods, CRUD Operations, Global/Local Middlewares, Requests, Responses, Next</p>
+    <h2>:speech_balloon: Project</h2>
+    <p>HTTP Methods, CRUD Operations, Global/Local Middlewares, Requests, Responses, Next.</p>
     <h2>:rocket: Technologies </h2>
     <ul>
       <li><a href="https://nodejs.org/" rel="nofollow">Node.js</a></li>
