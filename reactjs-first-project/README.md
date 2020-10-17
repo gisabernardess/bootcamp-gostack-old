@@ -1,11 +1,11 @@
 <div id="readme" class="Box-body readme blob js-code-block-container">
   <article class="markdown-body entry-content p-3 p-md-6" itemprop="text">
     <h3 align="center">
-      <img alt="GoStack" src="https://user-images.githubusercontent.com/17882257/73647992-634a3f80-465b-11ea-9533-ba892ac87665.png" width="300px" style="max-width:100%;">
+      <img alt="GoStack" src="https://github.com/gisabernardess/bootcamp-gostack-old/blob/main/.github/logo-gostack.png" width="300px" style="max-width:100%;">
     </h3>
     <h2 align="center">React.js First Project</h2>
     <h3 align="center">
-      <img alt="react-github-repo-list" src="https://user-images.githubusercontent.com/17882257/74020804-15924780-4979-11ea-84fd-779528eef0a7.png" style="max-width:100%;">
+      <img alt="react-github-repo-list" src="https://github.com/gisabernardess/bootcamp-gostack-old/blob/main/.github/react-first-project.png" style="max-width:100%;">
     </h3>
     <h2>:rocket: Technologies </h2>
     <ul>

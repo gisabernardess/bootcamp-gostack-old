@@ -1,7 +1,7 @@
 <div id="readme" class="Box-body readme blob js-code-block-container">
   <article class="markdown-body entry-content p-3 p-md-6" itemprop="text">
     <p align="center">
-      <img alt="GoStack" src="https://user-images.githubusercontent.com/17882257/73647992-634a3f80-465b-11ea-9533-ba892ac87665.png" width="300px" style="max-width:100%;">
+      <img alt="GoStack" src="https://github.com/gisabernardess/bootcamp-gostack-old/blob/main/.github/logo-gostack.png" width="300px" style="max-width:100%;">
     </p>
     <p align="center">
       <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gisabernardess/bootcamp-gostack-nodejs">
@@ -39,7 +39,7 @@ $ yarn start <br/>
 <span class="pl-c"><span class="pl-c">#</span> The app will automatically reload if you change any of the source files.</span></pre>
 </div>
     <h2>:pencil: License </h2>
-    <p>This project is under the MIT license. See the <a href="">LICENSE</a> for more information.</p>
+    <p>This project is under the MIT license. See the <a href="https://github.com/gisabernardess/bootcamp-gostack-old/blob/main/LICENSE">LICENSE</a> for more information.</p>
     <hr>
     <p>Made with ♥ by Gisele Silva :wave: <a href="https://www.linkedin.com/in/gisabernardess/" rel="nofollow">Get in touch!</a></p>
   </article>
