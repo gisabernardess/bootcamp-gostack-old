@@ -1,9 +1,9 @@
 <div id="readme" class="Box-body readme blob js-code-block-container">
   <article class="markdown-body entry-content p-3 p-md-6" itemprop="text">
-    <h3 align="center">
+    <p align="center">
       <img alt="GoStack" src="https://github.com/gisabernardess/bootcamp-gostack-old/blob/main/.github/logo-gostack.png" width="300px" style="max-width:100%;">
-    </h3>
-    <h2 align="center">NodeJS Introduction</h2>
+    </p>
+    <p align="center">NodeJS Introduction</p>
     <h2>:rocket: Technologies </h2>
     <ul>
       <li><a href="https://nodejs.org/" rel="nofollow">Node.js</a></li>
